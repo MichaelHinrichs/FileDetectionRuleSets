@@ -1,0 +1,8 @@
+egame.ini
+egdata/console.lpk
+egdata/font.lpk
+egdata/loc.lpk
+egdata/mesh.lpk
+egdata/shaders.lpk
+egdata/textures.lpk
+egdata/ui.lpk
