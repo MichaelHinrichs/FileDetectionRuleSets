@@ -1,0 +1,7 @@
+.delga
+/install-dragengine-1.16.5-linux64.sh
+/install-dragengine-1.16.5-windows64.exe
+/installscript-dragengine-1.16.5.vdf
+install-dragengine-1.16.5-linux64.sh
+install-dragengine-1.16.5-windows64.exe
+installscript-dragengine-1.16.5.vdf
