@@ -1,0 +1,2 @@
+[**Sentry**](https://sentry.io/welcome/) is a developer-first error tracking and performance monitoring platform that helps developers see what actually matters, solve quicker, and learn continuously about their applications.
+Sentry features a large set of [**open source**](https://github.com/getsentry/sentry) SDKs for [**many different programming  languages**](https://github.com/getsentry/sentry#official-sentry-sdks).
