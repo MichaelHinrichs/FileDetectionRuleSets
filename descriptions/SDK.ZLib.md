@@ -1,0 +1,1 @@
+[**ZLib**](https://www.zlib.net) is a free, general-purpose, lossless data-compression library. It is not covered by any patents. It can be used on virtually any computer hardware and operating system, and is portable across platforms.
