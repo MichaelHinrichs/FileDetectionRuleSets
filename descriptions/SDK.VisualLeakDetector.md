@@ -1,0 +1,1 @@
+[**Visual Leak Detector**](https://kinddragon.github.io/vld/) is a [**open**](https://github.com/oneiric/vld) [**source**](https://github.com/KindDragon/vld) Visual C++ module created as a free alternative to the built-in memory leak detector provided with Visual C++.
