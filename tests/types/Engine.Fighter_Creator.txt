@@ -1,0 +1,11 @@
+.fcc
+.fccb
+.fcd
+.fcgm
+.fcgmb
+.fcm
+.fcmb
+.fcp
+.fcpb
+.fcs
+.fcsb
