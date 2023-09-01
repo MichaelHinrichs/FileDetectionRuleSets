@@ -1,0 +1,1 @@
+[**BASIC8**](https://paladin-t.github.io/b8/) is an [**open source**](https://github.com/paladin-t/b8) integrated Fantasy Computer for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc.
