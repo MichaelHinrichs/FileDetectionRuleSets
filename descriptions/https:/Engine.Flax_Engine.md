@@ -1,0 +1,1 @@
+[**Flax Engine**](https://flaxengine.com/) is an [**open source**](https://github.com/FlaxEngine/FlaxEngine) 3D game engine. Seamless C++, C#, and Visual Scripting, and the extensible Flax Editor are just a few examples of tools the engine features.
