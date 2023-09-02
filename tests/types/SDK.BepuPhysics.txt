@@ -1,2 +1,4 @@
+/BepuPhysics.dll
+/BepuUtilities.dll
 BepuPhysics.dll
 BepuUtilities.dll
