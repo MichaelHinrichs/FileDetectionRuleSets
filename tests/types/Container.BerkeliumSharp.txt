@@ -1,2 +1,4 @@
-Binary/BerkeliumSharp.dll
-Binary/BerkeliumSharpLicense.txt
+/BerkeliumSharp.dll
+/BerkeliumSharpLicense.txt
+BerkeliumSharp.dll
+BerkeliumSharpLicense.txt
