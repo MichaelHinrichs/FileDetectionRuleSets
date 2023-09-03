@@ -1,1 +1,2 @@
+libsigc-2.0-0.dll
 sigc-vc120-2_0.dll
