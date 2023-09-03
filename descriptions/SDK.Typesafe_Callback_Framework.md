@@ -1,0 +1,1 @@
+The [**Typesafe Callback Framework for C++**](https://libsigcplusplus.github.io/libsigcplusplus/) is an [**open source**](https://github.com/libsigcplusplus/libsigcplusplus) C++ library for typesafe callbacks.
