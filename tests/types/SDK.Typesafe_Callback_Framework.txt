@@ -1,2 +1,6 @@
+/libsigc-2.0.0.dylib
+lib/libsigc-2.0.so.0
+lib64/libsigc-2.0.so.0
 libsigc-2.0-0.dll
 sigc-vc120-2_0.dll
+system/libsigc-2.0.17.dll
