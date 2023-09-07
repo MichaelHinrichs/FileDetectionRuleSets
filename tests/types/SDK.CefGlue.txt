@@ -1,0 +1,5 @@
+/Xilium.CefGlue.Client.exe
+/Xilium.CefGlue.dll
+/Xilium.CefGlue.WindowsForms.dll
+/Xilium.CefGlue.WPF.dll
+/Xilium.CefGlue.xml
