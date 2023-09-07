@@ -1,0 +1,7 @@
+gameQuery.jquery.json
+jquery.gamequery.js
+jquery.gamequery.ext.js
+jquery.gamequery.soundwrapper.bogus.js
+jquery.gamequery.soundwrapper.html5.js
+jquery.gamequery.soundwrapper.soundmanager2.js
+jquery.gamequery.soundwrapper.jPlayer.js
