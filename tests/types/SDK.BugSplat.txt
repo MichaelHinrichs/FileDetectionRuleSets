@@ -1,0 +1,2 @@
+BugSplat.dll
+BugSplatRc.dll
