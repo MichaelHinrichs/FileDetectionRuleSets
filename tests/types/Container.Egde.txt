@@ -1,0 +1,9 @@
+/Edge.dat
+/EdgeWebView.dat
+/msedge.dll
+/msedge.dll.sig
+/msedge_100_percent.pak
+/msedge_200_percent.pak
+/msedge_elf.dll
+/msedgewebview2.exe
+/msedgewebview2.exe.sig
