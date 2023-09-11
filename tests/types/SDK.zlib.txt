@@ -1,3 +1,4 @@
 zlib.lib
 zlib1.dll
+zlib1T.dll
 zlibwapi.dll
