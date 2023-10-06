@@ -1,4 +1,12 @@
 /libEGL.dll
+/libEGL.dylib
+/libEGL.so
 /libGLESv2.dll
+/libGLESv2.dylib
+/libGLESv2.so
 libEGL.dll
+libEGL.dylib
+libEGL.so
 libGLESv2.dll
+libGLESv2.dylib
+libGLESv2.so
