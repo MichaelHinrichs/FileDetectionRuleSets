@@ -7,6 +7,8 @@
 libEGL.dll
 libEGL.dylib
 libEGL.so
+libEGLMarmalade.dll
 libGLESv2.dll
 libGLESv2.dylib
 libGLESv2.so
+libGLESv2Marmalade.dll
