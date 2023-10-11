@@ -1,4 +1,8 @@
 /live2d.js
 /live2d.min.js
+/live2dcubismcore.js
+/live2dcubismcore.min.js
 live2d.js
 live2d.min.js
+live2dcubismcore.js
+live2dcubismcore.min.js
