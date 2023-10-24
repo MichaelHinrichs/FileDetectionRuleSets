@@ -1,3 +1,4 @@
+.swf
 /Flash Player
 /Flash Player.
 /Flash Player/
