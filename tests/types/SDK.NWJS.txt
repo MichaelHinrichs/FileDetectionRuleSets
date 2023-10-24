@@ -1,5 +1,7 @@
+/app.nw
 /nw.dll
 /nw.pak
+app.nw
 nw.dll
 nw.pak
 elliot_quest/nw.pak
