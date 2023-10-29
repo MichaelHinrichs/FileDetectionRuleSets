@@ -10,5 +10,8 @@
 "Type: Launcher":
   - '**/Launcher.*'
 
+"Type: Programming-Language":
+  - '**/Programming-Language.*'
+
 "Type: Container":
   - '**/Container.*'
