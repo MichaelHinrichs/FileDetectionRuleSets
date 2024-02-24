@@ -1,0 +1,2 @@
+sndcfg.rgm
+/sndcfg.rgm
