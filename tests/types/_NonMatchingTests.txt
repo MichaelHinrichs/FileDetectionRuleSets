@@ -410,6 +410,8 @@ _asr
 ootstrap.cfg
 bootstrap.cf
 bootstrap_cfg
+rmdp
+.rmdpf
 fnode.dll
 pytho.dll
 pythonxdll
