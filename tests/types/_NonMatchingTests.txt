@@ -897,6 +897,9 @@ fwindow_set_cursor.dll
 fjoydll.dll
 fGMXInput.dll
 fgm7zip.dll
+LoadstoneEngine.dll
+Lodestone.dll
+Lodestone-Engine.dll
 sub/dir/fgame.unx
 sub/dir/fgame.ios
 sub/dir/flibYoYoGamepad.dylib
