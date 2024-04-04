@@ -1,0 +1,2 @@
+win32/storyplayer.exe
+win62/storyplayer.exe
