@@ -848,6 +848,17 @@ ac2runtime.js
 ac3runtime.js
 c2runtime.jss
 c3runtime.jss
+twitchsdk32_release.dll
+twitchsdk64_release.dll
+twitchsdk_32release.dll
+twitchsdk_64release.dll
+twitchsdk32release.dll
+twitchsdk64release.dll
+twitchsdk_release.dll
+twitchsdkrelease.dll
+ftwitchsdk_32_release.dll
+ftwitchsdk_64_release.dll
+ftwitchsdk.dll
 GameGuard.desu
 GameData/bundle_PCC.ipk
 bootresourcemap_pc64.ipk
