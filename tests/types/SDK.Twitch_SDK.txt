@@ -1,0 +1,3 @@
+twitchsdk.dll
+twitchsdk_32_release.dll
+twitchsdk_64_release.dll
