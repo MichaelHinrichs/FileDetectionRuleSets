@@ -1,0 +1,2 @@
+Syconfig.ini
+Sygame_dll.dll
