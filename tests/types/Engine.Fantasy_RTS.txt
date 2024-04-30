@@ -1,0 +1,5 @@
+/mapeditormanual.pdf
+mapeditormanual.pdf
+/fantasyrts.dll
+/fantasyrts.exe
+/fantasyrts.csproj
