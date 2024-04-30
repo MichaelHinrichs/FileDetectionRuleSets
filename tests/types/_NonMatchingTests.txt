@@ -266,6 +266,10 @@ APRT_RT.exe
 wgcs_api.ex
 gcs_api.exe
 wgcs_api_exe
+map editor manual.pdf
+map-editor-manual.pdf
+map_editor_manual.pdf
+editormanual.pdf
 CachedShaders_D3D12_gro
 CachedShaders_D3D12.gr
 RPT_RT.exeeee
