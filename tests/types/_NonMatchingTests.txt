@@ -1001,6 +1001,10 @@ notactuallySteamworks.NET.dll
 Steamworks.NET.dllwhoops
 sub/dir/notactuallySteamworks.NET.dll
 sub/dir/Steamworks.NET.dllwhoops
+turbineclientlauncher.exef
+fturbineclientlauncher.exe
+turbineclientlauncher.fexe
+turbineclientlauncherf.exe
 angle_libEGLMarmalade.dll
 angle_libGLESv2Marmalade.dll
 angle/libEGLMarmalade_dll
