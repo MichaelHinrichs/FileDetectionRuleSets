@@ -1177,3 +1177,6 @@ notlibodin.so
 .fdpc
 .dpcf
 dpc
+.fpsocache
+.psocachef
+psocache
