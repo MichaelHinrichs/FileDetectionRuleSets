@@ -550,6 +550,12 @@ ision100.dll
 vision100.dl
 vision100_dll
 vision138.dll
+PovCore.dll
+ovCore.dllf
+_ovCore.dll
+.ovCore.dll
+ovCore.dll.
+/OvCore.dll
 sub/dir/FChromeEngine2.dll
 sub/dir/FChromeEngine3.dll
 sub/dir/FChromEd.exe
