@@ -77,6 +77,13 @@ dEngine.BuildInfo_Win32_retail.dll
 dEngine.BuildInfo_Win32_retail_dll.dll
 dEngine.BuildInfo_Win64_retail.dll
 dEngine.BuildInfo_Win64_retail_dll.dll
+fAndorraOGL.dll
+/AndorraOGL.dll
+AndorraOGL.dllf
+AndorraOGL.dll.
+AndorraOGL
+AndorraOGLf
+Andorra.dll
 fBox2D.dll
 fbox2d.dll
 fbox2d.txt
