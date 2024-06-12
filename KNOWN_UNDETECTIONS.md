@@ -45,3 +45,9 @@ It's built into Steam and game exe, so its can't be detected
 ### Denuvo Anti-Cheat
 
 Denuvo is built into exe, so it can not be detected either
+
+## The following Launchers are known to be undetected by our heretics
+
+### Aerosoft Launcher
+
+The file name of the Aerosoft Launcher executible is simply "Launcher.exe".
