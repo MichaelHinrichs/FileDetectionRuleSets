@@ -1,0 +1,4 @@
+/NCLauncher.exe
+/NCLauncher32.exe
+NCLauncher.exe
+NCLauncher32.exe
