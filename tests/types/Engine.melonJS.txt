@@ -1,3 +1,13 @@
+/Contents/Resources/app.nw/lib/._melonJS-0.9.10.30fps.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.10.a.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.10.a.old.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.10.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.4-min.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.5-min.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.6-min.js
+/Contents/Resources/app.nw/lib/._melonjs-0.9.7-rc1.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.8.js
+/Contents/Resources/app.nw/lib/._melonJS-0.9.9.js
 /Contents/Resources/app.nw/lib/melonJS-0.9.10.30fps.js
 /Contents/Resources/app.nw/lib/melonJS-0.9.10.a.js
 /Contents/Resources/app.nw/lib/melonJS-0.9.10.a.old.js
