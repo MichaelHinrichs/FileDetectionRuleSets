@@ -434,6 +434,10 @@ limDX.dll
 ideros.dll
 gidros.dll
 gidero.dll
+.sacn
+.ncas
+sacn
+.scan
 Adobe AIRCRAFT
 Adobe AIRCRAFT/Versions
 Adobe AIRCRAFT/Versions/1.0
